@@ -36,11 +36,11 @@ h3 {
 
 #header {
     margin-bottom: 32px;
-    align-content: center;
+    text-align: center;
 }
 
 #footer {
     margin-top: 64px;
-    align-content: center;
+    text-align: center;
 }
 /* END */
